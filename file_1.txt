@@ -1,4 +1,0 @@
-# arc-beacon
-Commit 2
-Date: 2023-05-20T01:07:01Z
-Add core module
