@@ -1,4 +1,0 @@
-# arc-beacon
-Commit 5
-Date: 2024-03-25T16:45:40Z
-Update dependencies
