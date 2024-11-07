@@ -1,4 +1,0 @@
-# arc-beacon
-Commit 6
-Date: 2024-10-04T01:51:07Z
-Add unit tests
