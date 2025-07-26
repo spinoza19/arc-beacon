@@ -1,4 +1,0 @@
-# arc-beacon
-Commit 8
-Date: 2025-02-16T18:15:56Z
-Add documentation
